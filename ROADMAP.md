@@ -2,7 +2,7 @@
 
   <h5><p> We're trying to deliever series of videos to schools in local language.Videos will be on web literacy or digital literacy. Sustainable progress is the mission of project.By this Volunteer do not need to visit schools in periodic time still students can learn at their time. </p> </h5>
   
-  <p> In this document will describe milestone :dart: and task you need to perform for completing those milestones </p>
+  <h5><p> In this document will describe milestone :dart: and task you need to perform for completing those milestones </p>  </h5>
   
   
   | First Header  | Second Header | Task    |
