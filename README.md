@@ -1,21 +1,20 @@
-# Lanyon
+# Localisation of schools
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Thank you for visiting this repo.
 
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+We are bridge between newbies on Internet and remote volunteers/who don’t have time to go and teach them periodically.
+
 
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+- [What are we doing](#usage)
+- [Expected Output](#options)
+  - [Contributors](#sidebar-menu)
+  - [Web Literacy](#themes)
+- [What do we need](#development)
+- [Why should you get involved](#author)
+- [Get in touch](#license)
 
 
 ## Usage
@@ -46,12 +45,10 @@ title: About
 
 Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
+
 
 There are eight themes available at this time.
 
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
 
 To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
@@ -66,8 +63,7 @@ To create your own theme, look to the Themes section of [included CSS file](http
 
 ### Reverse layout
 
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
+
 
 Reverse the page orientation with a single class.
 
