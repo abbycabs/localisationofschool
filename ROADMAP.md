@@ -1,15 +1,16 @@
-<h1> Roadmap - Localisation of school  </h1>
+# Roadmap - Localisation of school 
 
-  <h5><p> We're trying to deliever series of videos to schools in local language.Videos will be on web literacy or digital literacy. Sustainable progress is the mission of project.By this Volunteer do not need to visit schools in periodic time still students can learn at their time. </p> </h5>
+  <p> We're trying to deliever series of videos to schools in local language.Videos will be on web literacy or digital literacy. Sustainable progress is the mission of project.By this Volunteer do not need to visit schools in periodic time still students can learn at their time. </p>    
+  <p> In this document will describe milestone :dart: and task you need to perform for completing those milestones </p> 
+  <p>Please check out our contribution guidelines and code of conduct to help you get started, and the README for an overview if you haven't read it yet!</p>
   
-  <h5><p> In this document will describe milestone :dart: and task you need to perform for completing those milestones </p>  </h5>
+  Check Ongoing issue <link>
   
-  
-  | First Header  | Second Header | Task    |
-  | ------------- | ------------- |     --- |
-  | :rocket:  | Create Videos  |    0/6     |
-  | :rocket:  | Deliever Videos  |   0/5      |
-  | :rocket:  | Continous Development | 0/4   |
+  | First Header  | Second Header | Task    |  Estimated time of completion |
+  | ------------- | ------------- |     --- | --|
+  | :rocket:  | Create Videos  |    0/6     |  20 May 2017|
+  | :rocket:  | Deliever Videos  |   0/5      |  15 June 2017|
+  | :rocket:  | Continous Development | 0/4   |  20 July 2017  |
 
 
 <h4> Create Videos </h4>
