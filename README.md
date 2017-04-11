@@ -2,7 +2,7 @@
 
 Welcome to our Den :dancers: 
 
-Thank you for visiting our repo. :tada: 
+Thank you for visiting our repo. :tada: This document will provide some infomation about our project. 
 
 
 ## Contents
@@ -35,21 +35,25 @@ We are bridge between newbies on Internet and remote volunteers/who don’t have
 
 We need poeple who are social activist, willing to give back something to society in any form. 
 
-It can be time, money or in any form. For 12 weeks we are doing free after that we are looking for funding to make this project in large scale and more sustainable,
+We are looking for volunteers who has good command over multimedia or want to develop their skills in multimedia. 
 
- Those who want to develop their skills in multimedia. We currently looking for volunteers who can create video on any platform.User Experiance, Website Development is our next focus area.
- 
-Be the part of change. Help to improve education system.
+We currently looking for volunteers who can create video on any platform.User Experiance, Website Development is our next focus area. 
+
+ For 12 weeks we are doing free after that we are looking for funding to make this project in large scale and more sustainable,
+
+
+Be the part of change. Help to improve education system. :clap:
 
 
 ## Involve
 
-If you are willing to contribute in any area listed above or have something new area that we haven't yet thought of then please check our contributor guidelines.
+If you are willing to contribute in any area listed above or have something new area that we haven't yet thought of then please check our contributor guidelines<link>.
 
-Check out our Roadmap what are we going to do in next 12 weeks.
+Check out our Roadmap<link> what are we going to do in next 12 weeks. You wil ask to follow code of conduct <link>
 
 ## Contact
 
-Open sourced under the [MIT license](LICENSE.md).
+If you have any doubt, suggetion then you can open issue<link> at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. 
 
-<3
+
+Thank you so much for visiting this project. :hearts: We hope we can make some interst to you for joining our wonderful journey towards change in someone's life. :clap:
