@@ -2,7 +2,7 @@
 
 Welcome to our Den :dancers: 
 
-Thank you for visiting our repo. :tada: This document will provide some infomation about our project. 
+Thank you for visiting our repo. :tada: This document will provide some infomation about our project.:information_desk_person:
 
 
 ## Contents
@@ -20,18 +20,20 @@ Thank you for visiting our repo. :tada: This document will provide some infomati
  
  - Our Mozilla volunteers make campaign like kidzilla, Women in web literacy but It require more time of them. They can not give more time from their personal time. It is not sustainable way of development neither for students nore for volunteers.
  
-## Solution
+## Solution 
 
-We are bridge between newbies on Internet and remote volunteers/who don’t have time to go and teach them periodically.
+We are bridge between newbies on Internet and remote volunteers/who don’t have time to go and teach them periodically. :star2:
 
 - By delivering Video series to schools in localised language and make teacher understand how to use it.
 
-- Video will be based on school syllabus. here is list of topics on which we are making videos.
+- Video will be based on school syllabus. here<link> is list of topics on which we are making videos.
 
-- Intially Volunteer will visit school and give demo of some video. Then Vounteers will explain teachers How can you use this video and learn by yourself as well to teach students. If they are interested then these videos will be handover to school faculties.
+- Intially Volunteer will visit school and give demo of some video :running:. They will explain to teachers that How can they use this video and learn by yourself as well to teach students. If they are interested then these videos will be handover to school faculties.:school:
 
 
 ## Development
+
+You :point_left: in whatever way you can help.
 
 We need poeple who are social activist, willing to give back something to society in any form. 
 
@@ -40,7 +42,6 @@ We are looking for volunteers who has good command over multimedia or want to de
 We currently looking for volunteers who can create video on any platform.User Experiance, Website Development is our next focus area. 
 
  For 12 weeks we are doing free after that we are looking for funding to make this project in large scale and more sustainable,
-
 
 Be the part of change. Help to improve education system. :clap:
 
@@ -53,7 +54,7 @@ Check out our Roadmap<link> what are we going to do in next 12 weeks. You wil as
 
 ## Contact
 
-If you have any doubt, suggetion then you can open issue<link> at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. 
+If you have any doubt, suggetion then you can open issue<link> at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. :wave:
 
 
 Thank you so much for visiting this project. :hearts: We hope we can make some interst to you for joining our wonderful journey towards change in someone's life. :clap:
