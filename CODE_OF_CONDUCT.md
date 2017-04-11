@@ -21,7 +21,7 @@ will be more easily detected and corrected.
 
 Members who will violate these rules, no matter how much they have contributed to the project,will be approached by a member 
 of the leadership team. If inappropriate behaviour persists after a discussion with the leadership team member the contributer
-will be asked to discontinue their participation in the development of the app.
+will be asked to discontinue their participation in the development of the project.
  
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a team member
 immediately. 
