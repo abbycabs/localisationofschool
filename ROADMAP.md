@@ -22,7 +22,7 @@
 - [ ] Decide Time of Video - Create time frame for video i.e not exceeding from 5 min and not less than 2 min.
 - [ ] Estimated time for creating video
 
-<h4> Create Videos </h4>
+<h4> Deliever Videos </h4>
 
 yay! :tada: campaign timing :runner:
 
