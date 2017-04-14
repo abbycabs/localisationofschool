@@ -48,13 +48,13 @@ Be the part of change. Help to improve education system. :clap:
 
 ## Involve
 
-If you are willing to contribute in any area listed above or have something new area that we haven't yet thought of then please check our contributor guidelines<link>.
+If you are willing to contribute in any area listed above or have something new area that we haven't yet thought of then please check our [contributor guidelines](CONTRIBUTING.md).
 
-Check out our Roadmap<link> what are we going to do in next 12 weeks. You wil ask to follow code of conduct <link>
+Check out our [Roadmap](ROADMAP.md) what are we going to do in next 12 weeks. You wil ask to follow [code of conduct](CODE_OF_CONDUCT.md)
 
 ## Contact
 
-If you have any doubt, suggetion then you can open issue<link> at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. :wave:
+If you have any doubt, suggetion then you can open (issue)(https://guides.github.com/features/issues/) at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. :wave:
 
 
 Thank you so much for visiting this project. :hearts: We hope we can make some interst to you for joining our wonderful journey towards change in someone's life. :clap:
