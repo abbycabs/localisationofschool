@@ -54,7 +54,7 @@ Check out our [Roadmap](ROADMAP.md) what are we going to do in next 12 weeks. Yo
 
 ## Contact
 
-If you have any doubt, suggetion then you can [open issue](https://guides.github.com/features/issues/) at this repository. You can also join us on Gitter channel <link> for sharing your experience and for more discussion. :wave:
+If you have any doubt, suggetion then you can [open issue](https://guides.github.com/features/issues/) at this repository. You can also join us on [Gitter channel](https://gitter.im/Open-Leadership-Localisation-of-School/Lobby) for sharing your experience and discussion. :wave:
 
 
 Thank you so much for visiting this project. :hearts: We hope we can make some interst to you for joining our wonderful journey towards change in someone's life. :clap:
