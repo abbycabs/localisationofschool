@@ -18,7 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at the issues in our [current milestone](https://github.com/drashti4/localisationofschool/issues) or browse some [help wanted](https://github.com/mozilla/open-leadership-training-series/labels/good%20first%20bug) to get started!
+Take a look at the issues in our [current milestone](https://github.com/drashti4/localisationofschool/milestones) or browse some [help wanted](https://github.com/drashti4/localisationofschool/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to get started!
 
 ## How to submit changes
 
