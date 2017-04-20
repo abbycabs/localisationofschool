@@ -1,8 +1,10 @@
 # Roadmap - Localisation of school 
 
-  <p> We're trying to deliever series of videos to schools in local language.Videos will be on web literacy or digital literacy. Sustainable progress is the mission of project.By this Volunteer do not need to visit schools in periodic time still students can learn at their time. </p>    
-  <p> In this document will describe milestone :dart: and task you need to perform for completing those milestones </p> 
-  <p>Please check out our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) to help you how get started, and the [README](README.md) for an overview of what we are doing if you haven't read it yet!</p>
+We're trying to deliever series of videos to schools in local language.Videos will be on web literacy or digital literacy. Sustainable progress is the mission of project.By this Volunteer do not need to visit schools in periodic time still students can learn at their time.
+
+In this document will describe milestone :dart: and task you need to perform for completing those milestones
+
+Please check out our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) to help you how get started, and the [README](README.md) for an overview of what we are doing if you haven't read it yet!
   
   Check Ongoing issue <link>
   
@@ -13,7 +15,7 @@
   | :rocket:  | Continous Development | 0/4   |  20 July 2017  |
 
 
-<h4> Create Videos </h4>
+#### Create Videos
 
 - [ ] Choosing right software - A simple selection of software so that novice can easily contribute.
 - [ ] Prepare Syllabus - Select specific standard syllabus from government book.
@@ -22,7 +24,8 @@
 - [ ] Decide Time of Video - Create time frame for video i.e not exceeding from 5 min and not less than 2 min.
 - [ ] Estimated time for creating video
 
-<h4> Deliever Videos </h4>
+
+#### Deliever Videos
 
 yay! :tada: campaign timing :runner:
 
@@ -32,7 +35,7 @@ yay! :tada: campaign timing :runner:
 - [ ] Get response from school authority and students
 - [ ] If possible, do hands-on
 
-<h4> Continous Development </h4>
+#### Continous Development
 
 - [ ] Identify Gaps
 - [ ] Document all feedback
